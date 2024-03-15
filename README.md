@@ -84,8 +84,8 @@ cv2.destroyAllWindows()
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![Screenshot 2024-03-15 103441](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/c6558eb0-3021-473a-9561-f13d50128439)
-![Screenshot 2024-03-15 103448](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/5d3046d7-b355-4e76-a3f3-f54d0a0f45c7)
+![WhatsApp Image 2024-03-15 at 10 41 46 AM](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/cd897312-ff01-4af3-9d14-1687f3e3381f)
+
 ![Screenshot 2024-03-15 103421](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/7cf6e1c7-b854-4a8f-a018-f66e515e892a)
 
 
