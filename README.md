@@ -86,10 +86,7 @@ cv2.destroyAllWindows()
 ### Histogram of Grayscale Image and any channel of Color Image
 ![WhatsApp Image 2024-03-15 at 10 50 04 AM](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/8db8f05d-fd6f-4263-9c1c-974850b7246a)
 
-
-![WhatsApp Image 2024-03-15 at 10 45 31 AM](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/69e54423-56e1-4e1a-881d-2aa3aeb9a42f)
-
-
+![Screenshot 2024-03-15 103421](https://github.com/SHARAN-MJ/Histogram-of-an-images/assets/119560305/0f282066-9708-47c2-8fcd-a2ef7feeecad)
 
 
 ### Histogram Equalization of Grayscale Image.
